@@ -1,0 +1,21 @@
+.ReactTable {
+    table-layout: fixed;
+    width: 80%;    
+    
+
+}
+.rt-thead{
+  background-color: #A9A9A9;
+  color: #FFF;
+}
+.-center{
+   background-color: #A9A9A9;
+  color: #FFF;
+}
+.-previous{
+    background-color: #d7d8e0;
+}
+
+body{
+  margin: 25px 50px 100px; 
+}
